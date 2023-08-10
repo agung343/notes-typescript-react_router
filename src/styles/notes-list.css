@@ -1,0 +1,6 @@
+.post {
+    max-width: 72rem;
+    display: grid;
+    grid-template-columns: repeat(3, 30%);
+    justify-content: center;
+}
